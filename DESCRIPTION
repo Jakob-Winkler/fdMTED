@@ -11,3 +11,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 URL: https://github.com/Jakob-Winkler/fdMTED
 BugReports: https://github.com/Jakob-Winkler/fdMTED/issues
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
